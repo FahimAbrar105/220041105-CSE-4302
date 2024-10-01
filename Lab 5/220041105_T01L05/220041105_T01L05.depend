@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1727800429 source:d:\abrar\coding\oop\220041105_t01l05\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	<iostream>
+	<cstdlib>
+	<algorithm>
+
+1727800445 d:\abrar\coding\oop\220041105_t01l05\include\savingsaccount.h
+	<string>
+
+1727799986 source:d:\abrar\coding\oop\220041105_t01l05\main.cpp
+	"SavingsAccount.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+

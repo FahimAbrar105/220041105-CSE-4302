@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1727690803 source:d:\abrar\coding\oop\220041105 cse 4302\lab 5\220041105_t02l03\src\employee.cpp
+	"Employee.h"
+	<cstring>
+	<iostream>
+	<string>
+
+1727691084 d:\abrar\coding\oop\220041105 cse 4302\lab 5\220041105_t02l03\include\employee.h
+	<cstring>
+	<string>
+
+1727690636 source:d:\abrar\coding\oop\220041105 cse 4302\lab 5\220041105_t02l03\main.cpp
+	<iostream>
+	"Employee.h"
+	<cstring>
+	<string>
+
