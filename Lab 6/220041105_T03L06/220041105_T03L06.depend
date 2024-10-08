@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728394866 source:d:\abrar\coding\oop\220041105 cse 4302\lab 6\220041105_t03l06\main.cpp
+	"temperature.h"
+
+1728394831 d:\abrar\coding\oop\220041105 cse 4302\lab 6\220041105_t03l06\include\temperature.h
+	<iostream>
+
+1728394911 source:d:\abrar\coding\oop\220041105 cse 4302\lab 6\220041105_t03l06\src\temperature.cpp
+	"temperature.h"
+
