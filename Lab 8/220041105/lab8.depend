@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1730718285 source:d:\abrar\coding\oop offline\lab8\main.cpp
+	<iostream>
+	"CurrentAccount.h"
+	"SavingsAccount.h"
+	"LoanAccount.h"
+	"MonthlyDepositScheme.h"
+
+1730748551 source:d:\abrar\coding\oop offline\lab8\src\currentaccount.cpp
+	"CurrentAccount.h"
+	<iostream>
+
+1730748551 d:\abrar\coding\oop offline\lab8\include\currentaccount.h
+	"Account.h"
+
+1730749120 source:d:\abrar\coding\oop offline\lab8\src\fiveyearmds.cpp
+	"FiveYearMDS.h"
+	<iostream>
+
+1730749128 d:\abrar\coding\oop offline\lab8\include\fiveyearmds.h
+	"MonthlyDepositScheme.h"
+
+1730749727 source:d:\abrar\coding\oop offline\lab8\src\initialdepositmds.cpp
+	"MonthlyDepositScheme.h"
+
+1730710509 d:\abrar\coding\oop offline\lab8\include\initialdepositmds.h
+
+1730717689 source:d:\abrar\coding\oop offline\lab8\src\loanaccount.cpp
+	"LoanAccount.h"
+	<iostream>
+
+1730717383 d:\abrar\coding\oop offline\lab8\include\loanaccount.h
+	"Account.h"
+
+1730717622 source:d:\abrar\coding\oop offline\lab8\src\monthlydepositscheme.cpp
+	"MonthlyDepositScheme.h"
+	<iostream>
+
+1730717272 d:\abrar\coding\oop offline\lab8\include\monthlydepositscheme.h
+	"Account.h"
+
+1730718285 source:d:\abrar\coding\oop offline\lab8\src\savingsaccount.cpp
+	"SavingsAccount.h"
+	<iostream>
+
+1730718285 d:\abrar\coding\oop offline\lab8\include\savingsaccount.h
+	"Account.h"
+
+1730748727 source:d:\abrar\coding\oop offline\lab8\src\twoyearmds.cpp
+	"TwoYearMDS.h"
+	<iostream>
+
+1730748727 d:\abrar\coding\oop offline\lab8\include\twoyearmds.h
+	"MonthlyDepositScheme.h"
+
+1730718284 source:d:\abrar\coding\oop offline\lab8\src\account.cpp
+	"Account.h"
+
+1730718285 d:\abrar\coding\oop offline\lab8\include\account.h
+	<string>
+
